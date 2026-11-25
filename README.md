@@ -4,7 +4,7 @@
 
 [![CI/CD Status](https://img.shields.io/badge/CI%2FCD-Passing-2ea44f?style=for-the-badge&logo=githubactions&logoColor=white)](https://github.com/rohitsingh0166/AI-hackthonproject/actions)
 [![LeetCode](https://img.shields.io/badge/LeetCode-rohitsingh0166-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/rohitsinghaiml_0166/)
-[![LinkedIn](https://www.linkedin.com/in/rohit-singh-3021312a8/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Rohit_Singh-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rohit-singh-3021312a8/)
 
 ---
 
