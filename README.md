@@ -3,8 +3,8 @@
 *Specializing in Computer Vision Forensics, Earth Observation / Geospatial AI, and Agentic Systems*
 
 [![CI/CD Status](https://img.shields.io/badge/CI%2FCD-Passing-2ea44f?style=for-the-badge&logo=githubactions&logoColor=white)](https://github.com/rohitsingh0166/AI-hackthonproject/actions)
-[![LeetCode](https://img.shields.io/badge/LeetCode-rohitsingh0166-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/rohitsingh0166/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rohitsingh0166)
+[![LeetCode](https://img.shields.io/badge/LeetCode-rohitsingh0166-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/rohitsinghaiml_0166/)
+[![LinkedIn](https://www.linkedin.com/in/rohit-singh-3021312a8/)
 
 ---
 
